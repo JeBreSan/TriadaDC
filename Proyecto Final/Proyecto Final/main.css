@@ -1,57 +1,20 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
 body {
   background-color: #1a1a1a;
   color: #f0f0f0;
   font-family: 'Arial', sans-serif;
   min-height: 2000px;
 }
-<<<<<<< HEAD
 #header{
   color: yellowgreen;
 }
-=======
-
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
 
 /* barra de navegacion */
 .navbar-brand {
   font-weight: bold;
-<<<<<<< HEAD
   
 }
 
-=======
-
-}
-
-/* Texto */
-
-#texto .col-12 {
-  background-color: #1a1a1a;
-  color: gray;
-  padding: 20px;
-}
-
-#texto .col-12:hover {
-  background-color: gray;
-  color: yellow;
-  transform: scale(1.02);
-  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
-}
-
-/* Carrusel */
-.carousel-caption h5 {
-  font-size: 2rem;
-  font-weight: bold;
-}
-
-.carousel-caption p {
-  font-size: 1.2rem;
-}
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
 
 /* Efectos en las cards */
 .card {
@@ -81,7 +44,6 @@ body {
   font-weight: bold;
 }
 
-<<<<<<< HEAD
 /* Carrusel */
 .carousel-caption h5 {
   font-size: 2rem;
@@ -91,9 +53,6 @@ body {
 .carousel-caption p {
   font-size: 1.2rem;
 }
-=======
-
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
 
 /* Acordeón */
 
@@ -101,20 +60,11 @@ body {
 .accordion .card-header {
   background-color: #333;
   border: none;
-<<<<<<< HEAD
   
 }
 .accordion .btn {
   font-size: 20px; 
   font-weight: bold; 
-=======
-
-}
-
-.accordion .btn {
-  font-size: 20px;
-  font-weight: bold;
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
 }
 
 
@@ -171,11 +121,7 @@ footer a {
   padding: 10px 15px;
   border-radius: 5px;
   transition: background-color 0.3s ease;
-<<<<<<< HEAD
   font-weight:bold;
-=======
-  font-weight: bold;
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 2);
 }
 
@@ -186,7 +132,6 @@ footer a {
 }
 
 
-<<<<<<< HEAD
 /* Texto */
 
 #texto .col-12 {
@@ -207,5 +152,3 @@ footer a {
 
 
 
-=======
->>>>>>> 2f51f2aadfe7582fd1c2b1b47d472cf2579b7828
