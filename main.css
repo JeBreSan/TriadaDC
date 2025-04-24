@@ -4,6 +4,29 @@ body {
   font-family: 'Arial', sans-serif;
   min-height: 2000px;
 }
+/* Si deseo manipular manualmente el hamburguer icon */
+
+/*
+.navbar .navbar-collapse {
+  display: none;
+}
+.navbar .navbar-toggler {
+  display: block;
+}
+
+@media (min-width: 1200px) {
+  .navbar .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar .navbar-toggler {
+    display: none !important;
+  }
+}
+*/
 
 
 /* barra de navegacion */
